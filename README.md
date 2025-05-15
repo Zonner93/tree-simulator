@@ -21,12 +21,12 @@ These values evolve over time using two actions:
 
 Simulates the growth of the tree.
 
-### Deciduous Tree (`DeciduousTree`)
+### Deciduous Tree
 - Trunk: +1
 - Branches: +1
 - Leaves: +1
 
-### Coniferous Tree (`ConiferousTree`)
+### Coniferous Tree
 - Trunk: +2 (faster growth)
 - Branches: +2
 - Leaves: +10 (produces more leaves)
